@@ -2,7 +2,7 @@
 
 This is a simple front end website for a fictional restaurant. 
 
-You can [view the live website here](https://ble0316.github.io/cinnamon/)
+You can [view the live website here](https://isabels-t.github.io/cinnamon/)
 
 ---
 
